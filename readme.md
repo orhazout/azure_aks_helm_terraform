@@ -1,10 +1,9 @@
-# terraform_vnet
-azure virtual network with virtual machine and data base , to deploy an online python application
+# terraform cluster project
+azure aks cluster, deployed with terraform, and include jenkins, prometheus, and ingress nginx helm charts.
 
 ## actions to apply:
 
-### generate ssh key and add to your project, or use ssh.tf to generate for you.
-### run commmands:
+### to deploy run commmands:
 ```
 terraform init
 ```
