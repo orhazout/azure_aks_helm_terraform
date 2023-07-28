@@ -1,0 +1,8 @@
+controller:
+
+  installPlugins:
+    - kubernetes:3937.vd7b_82db_e347b_
+    - workflow-multibranch:756.v891d88f2cd46
+    - workflow-aggregator:596.v8c21c963d92d
+    - git:5.1.0
+    - configuration-as-code:1647.ve39ca_b_829b_42
